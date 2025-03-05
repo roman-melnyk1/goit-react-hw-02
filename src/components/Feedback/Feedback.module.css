@@ -1,0 +1,15 @@
+.feedback {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ecf0f1;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+p {
+    color: #34495e;
+    margin: 5px 0;
+}
